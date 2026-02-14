@@ -4,6 +4,13 @@ body {
   margin: 0.5rem auto;
   max-width: 1012px;
   font-family: system-ui, Roboto, 'Helvetica Neue', sans-serif;
+  font-size: 14px;
+}
+
+a {
+  color: #0366d6;
+  font-weight: bolder;
+  text-decoration: none;
 }
 
 /* Telas pequenas */
