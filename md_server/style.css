@@ -19,8 +19,10 @@ a {
 }
 
 code {
-  background-color: #282c34;
+  display: block;
+  overflow-x: auto;
   padding: 1rem;
+  background-color: #282c34;
 }
 
 /* Telas pequenas */
