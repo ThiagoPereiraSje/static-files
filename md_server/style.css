@@ -18,6 +18,11 @@ a {
   list-style: none;
 }
 
+code {
+  background-color: #282c34;
+  padding: 1rem;
+}
+
 /* Telas pequenas */
 @media (max-width: 1012px) {
   body {
