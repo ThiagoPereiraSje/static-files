@@ -1,0 +1,15 @@
+iframe {
+  all: unset;
+  width: 100%;
+  max-width: 80rem;
+  height: 70vh;
+  margin-bottom: 0.5rem;
+}
+
+p {
+  all: unset;
+  display: block;
+  margin: 0.5rem 0;
+  text-align: justify;
+  width: 100%;
+}
