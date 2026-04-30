@@ -1,0 +1,20 @@
+body {
+  --background-primary: #1e1e1e;   /* fundo principal (editor e preview) */
+  --background-secondary: #1e1e1e; /* sidebar, menus */
+  --background-secondary-alt: #2d2d2d; /* áreas alternativas */
+  --background-modifier-border: #3a3a3a; /* bordas */
+  --text-normal: #ffffff;
+}
+
+
+.workspace-tab-header-container {
+  background-color: #1e1e1e;
+}
+
+.titlebar-button-container {
+  background-color: #1e1e1e !important;
+}
+
+.markdown-preview-view {
+  font-size: 16px;
+}
