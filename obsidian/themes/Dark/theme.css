@@ -4,6 +4,10 @@ body {
   --background-secondary-alt: #2d2d2d; /* áreas alternativas */
   --background-modifier-border: #3a3a3a; /* bordas */
   --text-normal: #ffffff;
+  --link-color: #4fc1ff;
+  --link-color-hover: #82d8ff;
+  --link-external-color: #4fc1ff;
+  --link-external-color-hover: #82d8ff;
 }
 
 
@@ -17,4 +21,8 @@ body {
 
 .markdown-preview-view {
   font-size: 16px;
+}
+
+.markdown-source-view {
+  background-color: rgba(255, 0, 0, 0.1) !important;
 }
